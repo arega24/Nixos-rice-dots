@@ -1,0 +1,28 @@
+
+@import "/home/arega/.cache/wal/colors-rofi-dark"
+
+configuration{
+    display:           "";
+}
+
+@theme "/home/arega/.config/rofi/config.rasi"
+
+inputbar {
+  children: [entry];
+}
+
+window {
+    width:            22%;
+    height:           26%;
+    padding:          10;
+    text-color:       @foreground;
+    background-color: @background;
+}
+
+listview {	
+    scrollbar:        true;
+}
+
+inputbar {
+    enabled:          true;
+}

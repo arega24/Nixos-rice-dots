@@ -1,0 +1,29 @@
+[2024-12-07 18:14:04.733] [info] Logseq App(0.10.9) Starting... 
+[2024-12-07 18:14:04.739] [info] restore proxy settings {:type "system"}
+[2024-12-07 18:14:04.739] [info] set proxy to {:type "system"}
+[2024-12-07 18:14:06.614] [debug] :electron.handler/watch-dir {:path "/home/arega/.logseq/config"}
+[2024-12-07 18:14:10.293] [info] :electron.handler/open-dir open folder selection dialog
+[2024-12-07 18:14:25.323] [debug] :electron.handler/open-dir {:path "/home/arega/Documentos/Logseq"}
+[2024-12-07 18:14:27.017] [debug] :electron.handler/watch-dir {:path "/home/arega/Documentos/Logseq"}
+[2024-12-07 18:30:39.273] [debug] window-all-closed Quitting...
+[2024-12-07 21:03:00.104] [info] Logseq App(0.10.9) Starting... 
+[2024-12-07 21:03:00.106] [info] restore proxy settings {:type "system"}
+[2024-12-07 21:03:00.107] [info] set proxy to {:type "system"}
+[2024-12-07 21:03:01.867] [debug] :electron.handler/watch-dir {:path "/home/arega/.logseq/config"}
+[2024-12-07 21:03:01.875] [debug] :electron.handler/unwatch-dir {:path "/home/arega/Documentos/Logseq"}
+[2024-12-07 21:03:01.875] [debug] :electron.handler/watch-dir {:path "/home/arega/Documentos/Logseq"}
+[2024-12-07 21:04:08.872] [debug] window-all-closed Quitting...
+[2024-12-07 22:35:50.690] [info] Logseq App(0.10.9) Starting... 
+[2024-12-07 22:35:50.697] [info] restore proxy settings {:type "system"}
+[2024-12-07 22:35:50.697] [info] set proxy to {:type "system"}
+[2024-12-07 22:35:52.419] [debug] :electron.handler/watch-dir {:path "/home/arega/.logseq/config"}
+[2024-12-07 22:35:52.426] [debug] :electron.handler/unwatch-dir {:path "/home/arega/Documentos/Logseq"}
+[2024-12-07 22:35:52.426] [debug] :electron.handler/watch-dir {:path "/home/arega/Documentos/Logseq"}
+[2024-12-07 22:37:03.567] [debug] window-all-closed Quitting...
+[2024-12-08 22:18:46.948] [info] Logseq App(0.10.9) Starting... 
+[2024-12-08 22:18:46.955] [info] restore proxy settings {:type "system"}
+[2024-12-08 22:18:46.955] [info] set proxy to {:type "system"}
+[2024-12-08 22:18:48.830] [debug] :electron.handler/watch-dir {:path "/home/arega/.logseq/config"}
+[2024-12-08 22:18:48.837] [debug] :electron.handler/unwatch-dir {:path "/home/arega/Documentos/Logseq"}
+[2024-12-08 22:18:48.837] [debug] :electron.handler/watch-dir {:path "/home/arega/Documentos/Logseq"}
+[2024-12-08 22:20:04.638] [debug] window-all-closed Quitting...

@@ -1,0 +1,10 @@
+#!/usr/bin/env bash 
+while read file
+do         
+	case "$1" in
+        "d") 
+		sh ~/.config/scripts/set-wallpaper.sh "$file" ;;
+		"h") 
+		sh ~/.config/scripts/set-wallpaper-hypr.sh "$file" ;;
+	esac
+done
